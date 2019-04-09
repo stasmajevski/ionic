@@ -10,9 +10,11 @@ npm install -g ionic
 # Create a blank new Ionic 4 app with Angular support
 ionic start movieApp blank --type=angular
 cd movieApp
+```
 
 ionic/lab abil sa saad näha kuidas su äpp välja näeb android'is/iOS'is
 
+```
 # Install the Lab Package
 npm i @ionic/lab
 
